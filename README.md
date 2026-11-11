@@ -17,12 +17,32 @@ Sou **Victor Castelo**, desenvolvedor Fullstack de 22 anos, de Barra dos Coqueir
 
 ## >_ Tecnologias
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/white">
+    <img src="https://cdn.simpleicons.org/react/black" alt="React" title="React" width="44" height="44">
+  </picture>&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/white">
+    <img src="https://cdn.simpleicons.org/javascript/black" alt="JavaScript" title="JavaScript" width="44" height="44">
+  </picture>&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/white">
+    <img src="https://cdn.simpleicons.org/python/black" alt="Python" title="Python" width="44" height="44">
+  </picture>&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs/white">
+    <img src="https://cdn.simpleicons.org/nodedotjs/black" alt="Node.js" title="Node.js" width="44" height="44">
+  </picture>&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white">
+    <img src="https://cdn.simpleicons.org/nextdotjs/black" alt="Next.js" title="Next.js" width="44" height="44">
+  </picture>&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/claude/white">
+    <img src="https://cdn.simpleicons.org/claude/black" alt="Claude" title="Claude" width="44" height="44">
+  </picture>&nbsp;&nbsp;
+</p>
 
 ## >_ Contato
 
