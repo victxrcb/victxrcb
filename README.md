@@ -6,7 +6,7 @@
 
 Que bom que você passou por aqui. 👋
 
-Sou **Victor Castelo**, desenvolvedor Fullstack de 22 anos, de Barra dos Coqueiros - SE. Gosto de construir coisas para a web, do front ao back, e de usar IA no meu fluxo de trabalho.
+Sou **Victor Castelo**, desenvolvedor Fullstack de 22 anos, de Barra dos Coqueiros - SE. Gosto de construir coisas para a web, do front ao back, e de usar novas tecnologias no meu fluxo de trabalho.
 
 ## >_ Sobre mim
 
